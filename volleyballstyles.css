@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body { margin: 10%;
+	background-image: url(beachNet.jpg);
+	background-color: blue;
+	background-size: 500%;
+}
+
+h1 { font-size: 50px;
+	color: blue;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+h2 { font-size: 20px;
+	color: 	#00008B;
+	text-align: center;
+	
+}
