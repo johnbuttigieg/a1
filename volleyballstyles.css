@@ -13,8 +13,49 @@ h1 { font-size: 50px;
 	
 }
 
-h2 { font-size: 20px;
+h2 { font-size: 30px;
 	color: 	#00008B;
 	text-align: center;
-	
+	line-height:1%;
+}
+
+h3 {font-size: 25px;
+	color: 	#00008B;
+	text-align: center;
+	}
+
+
+h4 {
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	line-height:1%
+}
+
+h5 {
+	text-align: center;
+	color: black;
+	font-size: 40px;	
+}
+
+.paragraphcenter {
+	text-align: center;
+}
+
+.box {
+	background-color:#0DFFB4;
+	margin:1%;
+	text-align: center;
+	}
+
+.imgmargin {
+	margin: 10px; 
+}
+
+.prettyannouncement {
+	font-size:20px;
+	color:#142455;
+	font-weight: 900;
+}
+
 }
