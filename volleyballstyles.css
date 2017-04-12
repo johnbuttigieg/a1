@@ -1,26 +1,29 @@
 @charset "UTF-8";
 
 body { margin: 10%;
-	background-image: url(beachNet.jpg);
+	background-image: url(images/volleyballcourt.jpg);
 	background-color: blue;
 	background-size: 500%;
+	font-family: Sans-serif;
+
 }
 
 h1 { font-size: 50px;
-	color: blue;
+	color: #000793;
 	text-align: center;
 	font-weight: bold;
+	margin-bottom: -2%;
 	
 }
 
 h2 { font-size: 30px;
-	color: 	#00008B;
+	color: 	#0003B1;
 	text-align: center;
 	line-height:1%;
 }
 
 h3 {font-size: 25px;
-	color: 	#00008B;
+	color: 	#0003B1;
 	text-align: center;
 	}
 
@@ -43,8 +46,8 @@ h5 {
 }
 
 .box {
-	background-color:#0DFFB4;
-	margin:1%;
+	background-color:;
+	margin:2%;
 	text-align: center;
 	}
 
